@@ -1,0 +1,12 @@
+
+
+[root@t3ps kickstarts]# grep atlas rootdisks.txt 
+atlas001          WDC_WD2002FYPS-02W3B0_WD-WCAVY7234248
+atlas002          WDC_WD2002FYPS-02W3B0_WD-WCAVY7354128
+atlas003          WDC_WD2002FYPS-02W3B0_WD-WCAVY7354492
+atlas004          WDC_WD2002FYPS-02W3B0_WD-WCAVY7353785
+atlas005          WDC_WD2002FYPS-02W3B0_WD-WCAVY6747323
+
+atlas002    14:da:e9:0b:35:42
+atlas003    f4:6d:04:3b:42:0c
+atlas004    14:da:e9:0b:34:f3     
